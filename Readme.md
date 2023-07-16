@@ -1,4 +1,6 @@
 # crud_app_product
+## Tecnologies utilisées :
+     #### React, MongoDB, Node.js, Mongoose, cors, bodyparser, TailwindCSS, Express
 
 ### Pour démarer l'application
     👉 côté server & client : `npm start`
