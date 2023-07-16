@@ -86,7 +86,7 @@ const ProductForm = ({ product, onProductChange }) => {
         value={product ? 'Modifier' : 'Ajouter'}
         className="bg-blue-500 text-white px-4 py-2 rounded"
       />
-      {message && <p className="text-red-500">{message}</p>}
+      {message && <p className="text-dark-500 rounded">{message}</p>}
     </form>
   );
 };

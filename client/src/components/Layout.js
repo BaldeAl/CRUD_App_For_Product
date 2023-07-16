@@ -3,9 +3,9 @@ import { Link } from 'react-router-dom';
 
 const Navbar = () => {
     return (
-        <nav className="flex items-center justify-between flex-wrap bg-teal-500 p-6">
+        <nav className="flex items-center justify-between flex-wrap bg-teal-800 p-6">
             <div className="flex items-center flex-shrink-0 text-white mr-6">
-                <span className="font-semibold text-xl tracking-tight">Mon Application</span>
+                <span className="font-semibold text-xl tracking-tight">Al </span>
             </div>
             <div className="block lg:hidden">
                 <button className="flex items-center px-3 py-2 border rounded text-teal-200 border-teal-400 hover:text-white hover:border-white">
@@ -28,8 +28,9 @@ const Navbar = () => {
 
 const Footer = () => {
     return (
-        <footer className="text-center bg-teal-500 text-white p-4 mt-2 bottom-0 w-full">
-            <p>© 2023 Mon Application. Tous droits réservés.</p>
+        <footer className="text-center bg-teal-800 text-white p-4 mt-2 bottom-0 w-full">
+            <p>© 2023 Alsény BALDE. 
+                Tous droits réservés.</p>
         </footer>
     );
 };
