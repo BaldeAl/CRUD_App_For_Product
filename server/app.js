@@ -25,7 +25,7 @@ app.use(bodyParser.json());
 // importation des routes
 const productRoutes = require('./routes/productRoutes');
 app.use('/api/products', productRoutes);
-
+//
 // démarrer le serveur
 const PORT = 5000;
 app.listen(PORT, () => console.log(`Server running on port ${PORT}`));

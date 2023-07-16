@@ -7,7 +7,7 @@ exports.getProducts = async (req, res) => {
         res.json(products);
     } catch (err) {
         res.status(500).send(err);
-    }
+    } 
 };
 
 // Détail d'un produit
