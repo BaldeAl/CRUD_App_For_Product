@@ -1,6 +1,6 @@
 # crud_app_product
  test technique pour stage
-##Pour démarer l'application
+### Pour démarer l'application
     👉 côté server & client : `npm start`
  ## Page d'acceuil
 ![image](https://github.com/BaldeAl/CRUD_App_For_Product/assets/79581163/ff823a7a-8419-4fc8-98c2-4cc248d02dd8)
