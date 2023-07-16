@@ -1,5 +1,5 @@
 # crud_app_product
- test technique pour stage
+
 ### Pour démarer l'application
     👉 côté server & client : `npm start`
  ## Page d'acceuil
