@@ -2,6 +2,10 @@
 ## Tecnologies utilisées :
      #### React, MongoDB, Node.js, Mongoose, cors, bodyparser, TailwindCSS, Express
 
+## Architecture de l'application
+![image](https://github.com/BaldeAl/CRUD_App_For_Product/assets/79581163/ac1332fe-2903-43eb-b4e9-dcb1d9ff7d4d)
+
+
 ### Pour démarer l'application
     👉 côté server & client : `npm start`
  ## Page d'acceuil
